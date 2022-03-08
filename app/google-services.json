@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "498640634216",
+    "firebase_url": "https://notification-98b50.firebaseio.com",
+    "project_id": "notification-98b50",
+    "storage_bucket": "notification-98b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498640634216:android:5c744edf6b95c126b916dd",
+        "android_client_info": {
+          "package_name": "com.rmc.firebasecrashreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498640634216-0e3fnfnnv4hvame2pg4rt6tdrndb7b5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmswXRnHG_U7eyzfOjftbpbUTvH1hfOGo"
+        },
+        {
+          "current_key": "AIzaSyCHEoppEM1isM0uB7HW8Y4VT_MSPnr0KlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498640634216-0e3fnfnnv4hvame2pg4rt6tdrndb7b5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498640634216:android:9886b5f69ba29157b916dd",
+        "android_client_info": {
+          "package_name": "com.soninsony.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498640634216-0tji5lb8jun8hbs84pj80pj6nhpe5cid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soninsony.notification",
+            "certificate_hash": "515c0fd9c5eb3ab55b70c773693173ffcfed0791"
+          }
+        },
+        {
+          "client_id": "498640634216-0e3fnfnnv4hvame2pg4rt6tdrndb7b5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmswXRnHG_U7eyzfOjftbpbUTvH1hfOGo"
+        },
+        {
+          "current_key": "AIzaSyCHEoppEM1isM0uB7HW8Y4VT_MSPnr0KlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498640634216-0e3fnfnnv4hvame2pg4rt6tdrndb7b5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498640634216:android:e864d17bcd88ac3fb916dd",
+        "android_client_info": {
+          "package_name": "com.sonisony.notificatin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498640634216-0e3fnfnnv4hvame2pg4rt6tdrndb7b5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmswXRnHG_U7eyzfOjftbpbUTvH1hfOGo"
+        },
+        {
+          "current_key": "AIzaSyCHEoppEM1isM0uB7HW8Y4VT_MSPnr0KlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498640634216-0e3fnfnnv4hvame2pg4rt6tdrndb7b5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
